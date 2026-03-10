@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.8" start="node1" hassounds="0" apprev="20986">
+  <panorama id="node1">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="72.3631">
+      <start fov="124.215" pan="104.484" projection="4" tilt="-4.29529"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 10:40" comment="" description="" tags="fotos3606milmetros" latitude="-27.81045248" author="" heading="72.3631" copyright="" source="" nodeid="node1" info="" longitude="-50.37006045" customnodeid="" title="ESCRITÓRIO1 "/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="17.7568" pan="140.561" description="" target="$fwd" url="{node3}" tilt="0" title="BARRACÃO 01A" skinid="ht_node" id="Point01"/>
+      <hotspot distance="12.1927" pan="66.7712" description="" target="$fwd" url="{node2}" tilt="0" title="ESCRITÓRIO 2" skinid="ht_node" id="Point02"/>
+      <hotspot distance="58.6115" pan="103.083" description="" target="$fwd" url="{node5}" tilt="0" title="BARRACÃO 02B" skinid="ht_node" id="Point03"/>
+      <hotspot distance="37.6818" pan="78.592" description="" target="$fwd" url="{node4}" tilt="0" title="BARRACÃO 01B" skinid="ht_node" id="Point04"/>
+      <hotspot distance="80.3851" pan="114.77" description="" target="$fwd" url="{node8}" tilt="0" title="BARRACÃO 03B" skinid="ht_node" id="Point05"/>
+    </hotspots>
+    <media>
+      <image rotx="0.000" handcursor="0" fov="18.232" pan="-320.620" popoutscaling="100" stretch="1.000" height="2250" roty="0.000" clickmode="1" hidepinned="0" tilt="0.200" width="4000" id="FOTO VISTA AÉREA DESTE BARRACÃO" rotz="0.000" popbackmode="0">
+        <source url="media/dji_fly_20260204_162116_410_1770233097496_photo_optimized-1.jpg"/>
+      </image>
+    </media>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-141.837">
+      <start fov="100" pan="-86.2538" projection="4" tilt="-13.3837"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 10:41" comment="" description="" tags="fotos3606milmetros" latitude="-27.81034335" author="" heading="-141.837" copyright="" source="" nodeid="node2" info="" longitude="-50.37004837" customnodeid="" title="ESCRITÓRIO 2"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="25.8685" pan="-130.067" description="" target="$fwd" url="{node4}" tilt="0" title="BARRACÃO 01B" skinid="ht_node" id="Point01"/>
+      <hotspot distance="12.1927" pan="32.5711" description="" target="$fwd" url="{node1}" tilt="0" title="ESCRITÓRIO1 " skinid="ht_node" id="Point02"/>
+      <hotspot distance="43.707" pan="-57.0318" description="" target="$fwd" url="{node6}" tilt="0" title="BARRACÃO 02A" skinid="ht_node" id="Point03"/>
+      <hotspot distance="70.2743" pan="-64.4122" description="" target="$fwd" url="{node7}" tilt="0" title="BARRACÃO 01ABARRACÃO 03A" skinid="ht_node" id="Point04"/>
+      <hotspot distance="72.7924" pan="-92.2801" description="" target="$fwd" url="{node8}" tilt="0" title="BARRACÃO 03B" skinid="ht_node" id="Point05"/>
+      <hotspot distance="49.318" pan="-102.699" description="" target="$fwd" url="{node5}" tilt="0" title="BARRACÃO 02B" skinid="ht_node" id="Point06"/>
+      <hotspot distance="18.5226" pan="-34.4346" description="" target="$fwd" url="{node3}" tilt="0" title="BARRACÃO 01A" skinid="ht_node" id="Point07"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingroll="-1" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-153.707">
+      <start fov="106.153" pan="-174.536" projection="4" tilt="0.942496"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 10:41" comment="" description="" tags="fotos3606milmetros" latitude="-27.81039317" author="" heading="-153.707" copyright="" source="" nodeid="node3" info="" longitude="-50.37022808" customnodeid="" title="BARRACÃO 01A"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="17.7568" pan="-265.509" description="" target="$fwd" url="{node1}" tilt="0" title="ESCRITÓRIO1 " skinid="ht_node" id="Point01"/>
+      <hotspot distance="27.5419" pan="-83.8781" description="" target="$fwd" url="{node6}" tilt="0" title="BARRACÃO 02A" skinid="ht_node" id="Point02"/>
+      <hotspot distance="64.8589" pan="-118.142" description="" target="$fwd" url="{node8}" tilt="0" title="BARRACÃO 03B" skinid="ht_node" id="Point03"/>
+      <hotspot distance="33.2615" pan="-175.592" description="" target="$fwd" url="{node4}" tilt="0" title="BARRACÃO 01B" skinid="ht_node" id="Point04"/>
+      <hotspot distance="45.8122" pan="-136.628" description="" target="$fwd" url="{node5}" tilt="0" title="BARRACÃO 02B" skinid="ht_node" id="Point05"/>
+      <hotspot distance="18.5226" pan="-226.305" description="" target="$fwd" url="{node2}" tilt="0" title="ESCRITÓRIO 2" skinid="ht_node" id="Point06"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-152.386">
+      <start fov="100" pan="13.0326" projection="4" tilt="-0.603672"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 10:42" comment="" description="" tags="fotos3606milmetros" latitude="-27.81011560" author="" heading="-152.386" copyright="" source="" nodeid="node4" info="" longitude="-50.37010202" customnodeid="" title="BARRACÃO 01B"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="28.9048" pan="-88.953" description="" target="$fwd" url="{node5}" tilt="0" title="BARRACÃO 02B" skinid="ht_node" id="Point01"/>
+      <hotspot distance="25.8685" pan="-320.616" description="" target="$fwd" url="{node2}" tilt="0" title="ESCRITÓRIO 2" skinid="ht_node" id="Point02"/>
+      <hotspot distance="33.2615" pan="5.72872" description="" target="$fwd" url="{node3}" tilt="0" title="BARRACÃO 01A" skinid="ht_node" id="Point03"/>
+      <hotspot distance="43.8143" pan="-33.1979" description="" target="$fwd" url="{node6}" tilt="0" title="BARRACÃO 02A" skinid="ht_node" id="Point04"/>
+      <hotspot distance="64.1006" pan="-53.3889" description="" target="$fwd" url="{node7}" tilt="0" title="BARRACÃO 01ABARRACÃO 03A" skinid="ht_node" id="Point05"/>
+      <hotspot distance="37.6818" pan="-326.157" description="" target="$fwd" url="{node1}" tilt="0" title="ESCRITÓRIO1 " skinid="ht_node" id="Point06"/>
+      <hotspot distance="12.295" pan="-233.122" description="" target="$fwd" url="{node10}" tilt="0" title="ENTRADA BANHEIROS" skinid="ht_node" id="Point07"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="27.5665">
+      <start fov="100" pan="96.7088" projection="4" tilt="-0.296875"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 10:43" comment="" description="" tags="fotos3606milmetros" latitude="-27.80999934" author="" heading="27.5665" copyright="" source="" nodeid="node5" info="" longitude="-50.37036488" customnodeid="" title="BARRACÃO 02B"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="25.8732" pan="97.2865" description="" target="$fwd" url="{node8}" tilt="0" title="BARRACÃO 03B" skinid="ht_node" id="Point01"/>
+      <hotspot distance="28.9048" pan="-89.0006" description="" target="$fwd" url="{node4}" tilt="0" title="BARRACÃO 01B" skinid="ht_node" id="Point02"/>
+      <hotspot distance="58.6115" pan="-121.714" description="" target="$fwd" url="{node1}" tilt="0" title="ESCRITÓRIO1 " skinid="ht_node" id="Point03"/>
+      <hotspot distance="36.467" pan="187.691" description="" target="$fwd" url="{node6}" tilt="0" title="BARRACÃO 02A" skinid="ht_node" id="Point04"/>
+      <hotspot distance="49.318" pan="-113.295" description="" target="$fwd" url="{node2}" tilt="0" title="ESCRITÓRIO 2" skinid="ht_node" id="Point05"/>
+      <hotspot distance="43.9315" pan="149.063" description="" target="$fwd" url="{node7}" tilt="0" title="BARRACÃO 01ABARRACÃO 03A" skinid="ht_node" id="Point06"/>
+      <hotspot distance="45.8122" pan="-135.355" description="" target="$fwd" url="{node3}" tilt="0" title="BARRACÃO 01A" skinid="ht_node" id="Point07"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="21.4983">
+      <start fov="100" pan="7.92024" projection="4" tilt="-0.999344"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 10:43" comment="" description="" tags="fotos3606milmetros" latitude="-27.81030776" author="" heading="21.4983" copyright="" source="" nodeid="node6" info="" longitude="-50.37049094" customnodeid="" title="BARRACÃO 02A"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="27.5419" pan="-88.6729" description="" target="$fwd" url="{node3}" tilt="0" title="BARRACÃO 01A" skinid="ht_node" id="Point01"/>
+      <hotspot distance="27.5085" pan="87.1461" description="" target="$fwd" url="{node7}" tilt="0" title="BARRACÃO 01ABARRACÃO 03A" skinid="ht_node" id="Point02"/>
+      <hotspot distance="36.467" pan="1.62236" description="" target="$fwd" url="{node5}" tilt="0" title="BARRACÃO 02B" skinid="ht_node" id="Point03"/>
+      <hotspot distance="44.8617" pan="36.8424" description="" target="$fwd" url="{node8}" tilt="0" title="BARRACÃO 03B" skinid="ht_node" id="Point04"/>
+      <hotspot distance="43.8143" pan="-39.3138" description="" target="$fwd" url="{node4}" tilt="0" title="BARRACÃO 01B" skinid="ht_node" id="Point05"/>
+      <hotspot distance="43.707" pan="-73.6967" description="" target="$fwd" url="{node2}" tilt="0" title="ESCRITÓRIO 2" skinid="ht_node" id="Point06"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="193.201">
+      <start fov="100" pan="104.377" projection="4" tilt="-1.11259"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 10:44" comment="" description="" tags="fotos3606milmetros" latitude="-27.81020575" author="" heading="193.201" copyright="" source="" nodeid="node7" info="" longitude="-50.37074575" customnodeid="" title="BARRACÃO 01ABARRACÃO 03A"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="27.5085" pan="78.8487" description="" target="$fwd" url="{node6}" tilt="0" title="BARRACÃO 02A" skinid="ht_node" id="Point01"/>
+      <hotspot distance="34.5375" pan="170.749" description="" target="$fwd" url="{node8}" tilt="0" title="BARRACÃO 03B" skinid="ht_node" id="Point02"/>
+      <hotspot distance="70.2743" pan="90.6254" description="" target="$fwd" url="{node2}" tilt="0" title="ESCRITÓRIO 2" skinid="ht_node" id="Point03"/>
+      <hotspot distance="64.1006" pan="112.198" description="" target="$fwd" url="{node4}" tilt="0" title="BARRACÃO 01B" skinid="ht_node" id="Point04"/>
+      <hotspot distance="43.9315" pan="134.697" description="" target="$fwd" url="{node5}" tilt="0" title="BARRACÃO 02B" skinid="ht_node" id="Point05"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="223.561">
+      <start fov="100" pan="44.4709" projection="4" tilt="0.25757"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 10:44" comment="" description="" tags="fotos3606milmetros" latitude="-27.80991869" author="" heading="223.561" copyright="" source="" nodeid="node8" info="" longitude="-50.37061164" customnodeid="" title="BARRACÃO 03B"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="34.5375" pan="381.109" description="" target="$fwd" url="{node7}" tilt="0" title="BARRACÃO 01ABARRACÃO 03A" skinid="ht_node" id="Point01"/>
+      <hotspot distance="25.8732" pan="113.281" description="" target="$fwd" url="{node5}" tilt="0" title="BARRACÃO 02B" skinid="ht_node" id="Point02"/>
+      <hotspot distance="44.8617" pan="58.905" description="" target="$fwd" url="{node6}" tilt="0" title="BARRACÃO 02A" skinid="ht_node" id="Point03"/>
+      <hotspot distance="64.8589" pan="79.1261" description="" target="$fwd" url="{node3}" tilt="0" title="BARRACÃO 01A" skinid="ht_node" id="Point04"/>
+      <hotspot distance="80.3851" pan="85.9673" description="" target="$fwd" url="{node1}" tilt="0" title="ESCRITÓRIO1 " skinid="ht_node" id="Point05"/>
+      <hotspot distance="72.7924" pan="93.1176" description="" target="$fwd" url="{node2}" tilt="0" title="ESCRITÓRIO 2" skinid="ht_node" id="Point06"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-154.684">
+      <start fov="108.942" pan="174.641" projection="4" tilt="-0.79844"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 10:47" comment="" description="" tags="fotos3606milmetros" latitude="-27.81009424" author="" heading="-154.684" copyright="" source="" nodeid="node11" info="" longitude="-50.36995718" customnodeid="" title="BANHEIRO FEMININO"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="2.14743" pan="-54.0614" description="" target="$fwd" url="{node10}" tilt="0" title="ENTRADA BANHEIROS" skinid="ht_node" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-64.6239">
+      <start fov="117.846" pan="-176.802" projection="4" tilt="-10.9216"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 10:46" comment="" description="" tags="fotos3606milmetros" latitude="-27.81009780" author="" heading="-64.6239" copyright="" source="" nodeid="node10" info="" longitude="-50.36997864" customnodeid="" title="ENTRADA BANHEIROS"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="12.295" pan="34.64" description="" target="$fwd" url="{node4}" tilt="0" title="BARRACÃO 01B" skinid="ht_node" id="Point01"/>
+      <hotspot distance="2.30797" pan="-213.67" description="" target="$fwd" url="{node9}" tilt="0" title="BANHEIRO MASCULINO" skinid="ht_node" id="Point02"/>
+      <hotspot distance="2.14743" pan="-144.001" description="" target="$fwd" url="{node11}" tilt="0" title="BANHEIRO FEMININO" skinid="ht_node" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingroll="0" leveltilesize="510" height="1632" levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="1632" overlap="1">
+      <level predecode="0" height="1632" width="1632" preload="0"/>
+      <level predecode="0" height="816" width="816" preload="0"/>
+      <level predecode="1" height="408" width="408" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-145.281">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="05/02/2026 10:46" comment="" description="" tags="fotos3606milmetros" latitude="-27.81011560" author="" heading="-145.281" copyright="" source="" nodeid="node9" info="" longitude="-50.36996657" customnodeid="" title="BANHEIRO MASCULINO"/>
+    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
+      <label borderradius="1" wordwrap="1" textalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" enabled="1" backgroundalpha="1" borderalpha="1" background="1" border="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="2.30797" pan="-114.327" description="" target="$fwd" url="{node10}" tilt="0" title="ENTRADA BANHEIROS" skinid="ht_node" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" zoomin="0" softedge="0" zoomout="0" blendtime="1" enabled="1" zoomafteroutfov="40" zoomafterinfov="140" delay="none" type="crossdissolve" zoomspeed="2" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" contextvr="1" contextprojections="0" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" description="" tags="" author="" title="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
